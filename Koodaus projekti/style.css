@@ -8,3 +8,4 @@ h1{color:#ffffff ;background-color:rgb(0, 0, 0)}
 div.pitkä{font-family: Arial, Helvetica, sans-serif;}
 a.nav{color: black;}
 h2.source2{background-color: rgb(0, 0, 0);color: #ffffff;}
+body{margin: auto;max-width: 700px;}
