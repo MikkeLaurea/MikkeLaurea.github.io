@@ -1,0 +1,10 @@
+img{width: 150px;max-width: 100%;float: center;}
+h1{text-align: center;border: 1px blue;}
+div.container{text-align: center;}
+div.otsikko{text-align: center;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ul.myUL{ display: inline-block; text-align: left;}
+ul.sourcet{ display: inline-block; text-align: left;}
+h1{color:#ffffff ;background-color:rgb(0, 0, 0)}
+div.pitkä{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+a.nav{color: black;}
+h2.source2{background-color: rgb(0, 0, 0);color: #ffffff;}
