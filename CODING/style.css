@@ -1,0 +1,100 @@
+header{
+text-align: center;
+
+
+}
+
+body {text-align: center};
+
+
+
+
+.container {
+    border: 2px;
+
+}
+
+.row {
+    border: 1px solid #ffffff; 
+}
+
+
+.col-md-6,
+.col-md-8,
+.col-md-4,
+.col-md-3 {
+    padding: 10px;
+}
+
+
+header {
+    background-color: #4400ff;
+    color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+nav a {
+background-color:rgb(30, 12, 134)!important;
+   width: 100%;
+}
+article{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: bisque;
+
+}
+figure {
+background-color: bisque;
+width: 100%;
+padding: 5px;
+margin-bottom: 1px !important;
+}
+button{background-color: rgb(11, 22, 173)!important}
+div.dropdown-menu{background-color: bisque!important;}
+
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.navbar-toggler {
+    background-color: #343a40;
+}
+
+.navbar-nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-nav a:hover {
+    color: #ffffff;
+}
+.pricing-column {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.pricing-column h3 {
+    color: #0077ff;
+}
+
+.pricing-column h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+.pricing-column p {
+    color: #000000;
+}
