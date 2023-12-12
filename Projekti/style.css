@@ -1,0 +1,108 @@
+header{
+    text-align: center;
+    
+    
+    }
+    
+    body {
+     text-align: center;
+    background-color: #696464!important;
+    };
+    
+    
+    
+    
+    .container {
+        border: 2px;
+    
+    }
+    
+    .row {
+        border: 1px solid #696464 ; 
+    }
+    
+    
+    .col-md-6,
+    .col-md-8,
+    .col-md-4,
+    .col-md-3 {
+        padding: 10px;
+    }
+    
+    
+    header {
+        background-color: #554432;
+        color: #ffffff;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: center;
+        background-color: bisque;
+    
+    }
+    nav a {
+    background-color:#816444!important;
+       width: 100%;
+       border-color: #000000!important;
+    }
+    article{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+    
+    }
+    figure {
+    background-color: bisque;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 1px !important;
+    }
+
+    
+    
+    .navbar {
+        background-color: #533b16;
+    }
+    
+    .navbar-brand {
+        color: #ffffff;
+        font-size: 1.5rem;
+    }
+    
+    .navbar-toggler {
+        background-color: #08090a;
+    }
+    
+    .navbar-nav a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    .navbar-nav a:hover {
+        color: #ffffff;
+    }
+    .pricing-column {
+        padding: 20px;
+        margin: 20px;
+        border-radius: 10px;
+        text-align: center;
+        background-color: bisque;
+    }
+    
+    .pricing-column h3 {
+        color: #000000;
+    }
+    
+    .pricing-column h1 {
+        font-size: 2.5rem;
+        color: #030303;
+    }
+    
+    .pricing-column p {
+        color: #000000;
+    }
+    .btn-primary {
+    background-color:#554432 !important;
+    border-color: #000000!important;
+    }
